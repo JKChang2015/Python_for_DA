@@ -1,3 +1,3 @@
 # Python for Data Analysis
 ---
-![Alt text](/resources/python for data analysis.jpg)
+![Alt text](/resources/python for data analysis.png)
